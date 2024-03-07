@@ -1,7 +1,7 @@
 ## Hello, I'm Arthur de Jesus
 
 - 👨‍💻 I currently work as a Front End
-- 📚 Studying the 5th semester of computer science (UPF)
+- 📚 Studying the 9th semester of computer science (UPF)
 - 📫 contact email: 183120@upf.br or arthurfjesus@gmail.xom
 
 <div>
