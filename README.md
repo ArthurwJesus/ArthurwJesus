@@ -1,9 +1,20 @@
-## Hello, I'm Arthur de Jesus
+## 🇺🇸 About me
 
-- 👨‍💻 I currently work as a Front End
-- 📚 Studying the 9th semester of computer science (UPF)
-- 📫 contact email: 183120@upf.br or arthurfjesus@gmail.xom
+- 👨‍💻  I currently work as a Developer at Comercial Zaffari - 3 years and 2 months of experience
+- 🎓 Computer Scientist at the University of Passo Fundo (UPF)
+- 📫 Contact:
+  - Email: arthurfjesus@gmail.com
+  - [Linkedin](www.linkedin.com/in/arthur-jesus-820635196)
+    
+## 🇧🇷 Sobre mim
 
+- 👨‍💻  Atualmente trabalho como Desenvolvedor na Comercial Zaffari - 3 anos e 2 meses de experiência
+- 🎓 Cientista da Computação pela Universiade de Passo Fundo (UPF)
+- 📫 Contato:
+  - Email: arthurfjesus@gmail.com
+  - [Linkedin](www.linkedin.com/in/arthur-jesus-820635196)
+
+## 
 <div>
   <a href="https://beacons.ai/ArthurwJesus">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ArthurwJesus&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
